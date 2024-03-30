@@ -13,7 +13,7 @@ This repository aims to provide clear and concise implementations of essential d
 5. **Optimizers**
 6. **Convolutional Neural Networks (CNN)**: Dive into image recognition and feature extraction using CNNs.
 ## Datasets
-We've curated a set of diverse datasets in the `data` directory. From handwritten digits to movie reviews, these datasets cover various domains. Use them to practice and experiment with the algorithms.
+We've colllected a set of diverse datasets in the `data` directory. From handwritten digits to Car purchase history, these datasets cover various domains. Use them to practice and experiment with the algorithms.
 
 ## Usage
 1. Clone this repository: `git clone https://github.com/Aditya-Manwatkar/DL-Projects.git`
